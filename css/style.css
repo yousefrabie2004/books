@@ -1,0 +1,15 @@
+header {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(50, 146, 166 , .6) , rgba(50, 146, 166 , .6) ) , 
+    url(../images/mountains.jpg) ; 
+    background-position: center;
+    background-size: cover; 
+}
+
+.navbar{
+   box-shadow: 0 3px 15px rgb(1, 90, 107);
+}
+
+.nav-link{
+    font-size: 1.3rem;
+}
